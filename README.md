@@ -78,5 +78,7 @@ Finally check the status of your service as following command.
 
 ## Refernce
 https://aticleworld.com/socket-programming-in-c-using-tcpip/
+
 https://tecadmin.net/setup-autorun-python-script-using-systemd/
+
 http://devopspy.com/linux/python-script-linux-systemd-service/
